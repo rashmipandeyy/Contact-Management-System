@@ -1,0 +1,15 @@
+# Generated program files
+contact_manager
+contact_manager.exe
+*.o
+*.out
+
+# Contact database and temporary rewrite file
+contacts.dat
+contacts.tmp
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
